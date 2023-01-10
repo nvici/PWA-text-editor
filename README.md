@@ -36,6 +36,6 @@ THEN I should have proper build scripts for a webpack application
 ![This photo shows the chrome dev tools working with a console.log('hello world') inputed into JATE](./Develop/Assets/Screenshot%202023-01-09%20184201.jpg)
 
 ## Links
-https://github.com/nvici/Jate-TEXT-EDITOR
+https://github.com/nvici/PWA-text-editor
 
 you can find the app on: https://shielded-earth-40097.herokuapp.com/
